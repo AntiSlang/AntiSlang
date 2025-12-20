@@ -3,9 +3,9 @@
 </p>
 <p>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntiSlang&theme=jolly"/>
+  <img height="163" src="https://codeforces-readme-stats.vercel.app/api/card?username=AntiSlang&theme=jolly&disable_animations=true&show_icons=true&force_username=true"/>
   <!-- <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntiSlang&theme=jolly"/> -->
-  <img height="164" src="https://duolingo-stats-card.vercel.app/api?username=AntiSlang&theme=purple-gang" alt="Duolingo Stats"/>
+  <img height="164" src="https://duolingo-stats-card.vercel.app/api?username=AntiSlang&theme=purple-gang"/>
 </p>
-
 
 <!-- TODO: gotham theme -->
