@@ -8,7 +8,7 @@
 </p>
 <p>
   <!-- <img height="164" src="https://duolingo-stats-card.vercel.app/api?username=AntiSlang&theme=purple-gang"/> -->
-  <img height="164" src="https://duo-widget.vercel.app/api/duo?username=antislang&friends=sabakaru&character=falstaff&theme=jolly"/>
+  <img height="250" src="https://duo-widget.vercel.app/api/duo?username=antislang&friends=sabakaru&character=falstaff&theme=jolly"/>
 </p>
 
 <!-- TODO: gotham theme -->
