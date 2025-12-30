@@ -10,5 +10,8 @@
   <!-- <img height="164" src="https://duolingo-stats-card.vercel.app/api?username=AntiSlang&theme=purple-gang"/> -->
   <img height="250" src="https://duo-widget.vercel.app/api/duo?username=antislang&friends=sabakaru&theme=jolly&character=falstaff%2Clily"/>
 </p>
+<p>
+  <img height="250" src="https://ton-widget.vercel.app/api?address=UQAOmEhEJ4X-Xx2V1ibVw91yWYH5SFdFt-JNJI0p-MgYNFAU&theme=jolly&hide=pammcopy"/>
+</p>
 
 <!-- TODO: gotham theme -->
